@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WODFinder
 //
-//  Created by Kristijan Delivuk on 09/11/2020.
+//  Created by Kristijan Delivuk on 23/11/2020.
 //
 
 import SwiftUI
